@@ -64,7 +64,7 @@ namespace Nästlade_loopar
             {
                 for (int b = 0; b < 7; b++)
                 {
-                    if ( a - b < 0)
+                    if (a - b < 0) (" ");
                         Console.Write("*");
                     else
                         Console.Write(".");              
