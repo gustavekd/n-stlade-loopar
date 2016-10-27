@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Nästlade loopar, Configuration: Debug Any CPU ------
+1>  Nästlade loopar -> C:\Users\gustavekd\Documents\Visual Studio 2015\Projects\github\Nästlade loopar\Nästlade loopar\bin\Debug\Nästlade loopar.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
